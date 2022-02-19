@@ -1,2 +1,2 @@
-# our_project
- group_project
+# Glow_Glamorous
+ fashion_store
